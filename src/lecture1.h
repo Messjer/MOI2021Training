@@ -1,0 +1,7 @@
+#ifndef LECTURE1_H_INCLUDED
+#define LECTURE1_H_INCLUDED
+
+int Problem1();
+
+
+#endif // LECTURE1_H_INCLUDED
