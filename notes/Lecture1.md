@@ -53,7 +53,7 @@
 
 ## 習題
 
-提示：如果英文吃力可以試試Google Translate，不需要讀懂題面所有英文，或者做洛谷/UOJ/TIOJ上後續的問題。
+提示：如果英文吃力可以試試Google Translate，不需要讀懂題面所有英文，或者做洛谷/TIOJ/UOJ等平台上難度相似的問題。
 
 ### USACO的冒險
 
@@ -64,7 +64,7 @@
 - [UVa 11507 B. Rodríguez 水管拗彎的問題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502)
 - [UVa 573 蝸牛](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=514)
 - [UVa 462 橋牌算分器](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=403)
-- [UVa 棋盤安全位置計數](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225)
+- [UVa 10284棋盤安全位置計數](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225)
 - [UVa 10443 包剪揼](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1384)
 - [UVa 11221 魔方迴文串](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2162)
 - [UVa 454 倒序串](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=395)
