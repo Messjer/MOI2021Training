@@ -41,13 +41,42 @@
 
 ## 隨堂練習
 
+[TIOJ網址](tioj.ck.tp.edu.tw/problems/)、[UVa 網址](onlinejudge.org)。
+
 1. (遞歸)TIOJ1003切意大利餅問題：https://tioj.ck.tp.edu.tw/problems/1003 。
 2. (模擬)TIOJ1004猶太人敢死隊問題：https://tioj.ck.tp.edu.tw/problems/1004。
     註：又稱[Josephus（約瑟夫斯）問題](https://en.wikipedia.org/wiki/Josephus_problem)。
+3. (模擬)TIOJ1005圓周率問題：https://tioj.ck.tp.edu.tw/problems/1005。
+4. ()UVa 927 加法生成的整數序列：https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=868
+5. ()UVa 10487 最近和：https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1428
+6. ()UVa 11565 簡易方程式：https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2612
 
-## 課後習題
+## 習題
 
+提示：如果英文吃力可以試試Google Translate，不需要讀懂題面所有英文，或者做洛谷/UOJ/TIOJ上後續的問題。
 
+### USACO的冒險
+
+美國比賽USACO的訓練，闖關模式，雖然很短但強烈推薦。https://train.usaco.org/ 。（好像有中文版但推薦在官網完成）
+
+### UVaOJ 第一組
+
+- [UVa 11507 B. Rodríguez 水管拗彎的問題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502)
+- [UVa 573 蝸牛](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=514)
+- [UVa 462 橋牌算分器](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=403)
+- [UVa 棋盤安全位置計數](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225)
+- [UVa 10443 包剪揼](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1384)
+- [UVa 11221 魔方迴文串](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2162)
+- [UVa 454 倒序串](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=395)
+- [UVa 161 紅綠燈](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=97)
+
+### UVaOJ第二組
+
+- [UVa 11236 雜貨舖](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2177)
+- [UVa 1047 地段](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3488)
+- [UVa 11553 格子遊戲](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2548)
+- [UVa 10660 居民關注辦公室](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1601)
+- [UVa 10920 螺旋矩陣](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1861)
 
 ## 公開OJ列表
 
@@ -61,6 +90,7 @@
     3. ![G1](Uva簡易教程3.png)
     4. 如果可以做到以下程度，相信應對MOI的基礎技能已經足夠了。![G1](FirstGoalOnUHunt.png)
     5. <img src="UVa簡易教程4.png" alt="G1" style="zoom:50%;" />
+- 推薦參加[Codeforces](https://codeforces.com/)定期賽，有不同難度可選，以及[TopCoder](https://www.topcoder.com/)等。
 
 ## 參考資料
 
