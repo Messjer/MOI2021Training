@@ -89,7 +89,7 @@
     2. <img src="Uva簡易教程2.png" alt="G1" style="zoom:40%;" />
     3. ![G1](Uva簡易教程3.png)
     4. 如果可以做到以下程度，相信應對MOI的基礎技能已經足夠了。![G1](FirstGoalOnUHunt.png)
-    5. <img src="UVa簡易教程4.png" alt="G1" style="zoom:50%;" />
+    5. <img src="Uva簡易教程4.png" alt="G1" style="zoom:50%;" />
 - 推薦參加[Codeforces](https://codeforces.com/)定期賽，有不同難度可選，以及[TopCoder](https://www.topcoder.com/)等。
 
 ## 參考資料
