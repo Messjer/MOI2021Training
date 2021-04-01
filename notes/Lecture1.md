@@ -51,6 +51,8 @@
 5. ()UVa 10487 最近和：https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1428
 6. ()UVa 11565 簡易方程式：https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2612
 
+如果時間允許，會隨堂展示如何解決4-6。以及介紹少量有關算法複雜度的內容。
+
 ## 習題
 
 提示：如果英文吃力可以試試Google Translate，不需要讀懂題面所有英文，或者做洛谷/TIOJ/UOJ等平台上難度相似的問題。
