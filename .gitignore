@@ -34,4 +34,6 @@ src/bin
 *.exe
 *.out
 *.app
+*.ppt
+*.pptx
 

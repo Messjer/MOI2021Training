@@ -83,7 +83,7 @@
 ## 公開OJ列表
 
 - 參考建國中學講義
-    即 [09第一周講義](http://pisces.ck.tp.edu.tw/~peng/index.php?action=showfile&file=f25eb3f19f79528650026465de4ab6e5fd0be85b3) 及 [16第一周講義]([1_2.pdf (480 KB)](https://tioj.ck.tp.edu.tw/uploads/attachment/5/12/1_2.pdf))列出的OJ。例如耳熟能詳的洛谷OJ，UOJ，TIOJ，UVaOJ等。
+    即 [09第一周講義](http://pisces.ck.tp.edu.tw/~peng/index.php?action=showfile&file=f25eb3f19f79528650026465de4ab6e5fd0be85b3) 及 [16第一周講義](https://tioj.ck.tp.edu.tw/uploads/attachment/5/12/1_2.pdf)列出的OJ。例如耳熟能詳的洛谷OJ，UOJ，TIOJ，UVaOJ等。
 - 強推UVaOJ，題目多到可以刷到天荒地老
     **UVaOJ一個很煩人的地方是題目的格式要求很嚴格，很多時候不可以有多餘空格和換行等，請注意**
     可以配合UDebug (內建UVa上很多題目的標準程序，可以用於對比你的程式和標準輸出的差異)，效率會更高。

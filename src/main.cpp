@@ -3,6 +3,11 @@
 
 using namespace std;
 
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
 // Euclidean Algorithm
 int gcd(int a, int b) {
     if (a < b)
