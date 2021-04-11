@@ -74,11 +74,19 @@ while i < length(A)
 end while
 ```
 
+Credit: [Wikipedia Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
+
 ### Function Growth (i.e. Asymptotics)
 
 - Polys
+    <img src="polyFunctions.png" alt="img" style="zoom:72%;" />
+    <img src="poly_large_scale.png" alt="img" style="zoom:72%;" />
 - Exp v. Poly
+    <img src="expvspoly.png" alt="img3" style="zoom:72%;" />
 - Exps
+    <img src="exps.png" alt="img" style="zoom:72%;" />
+
+Note: plotted by matplotlab. See attached code.
 
 ### Time Complexity (cont.)
 
