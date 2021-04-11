@@ -14,7 +14,7 @@
 - 使用C++而不是C/Pascal等語言的好處：Standard Template Library (STL)。
     - 註：有些比賽允許使用Python或Java等 (MOI不能　)，但執行速度較低，建議摸熟C++。
     - 物件導向(或稱面向對象，Object-oriented)編程入門
-    - 備註：使用keyword enum的方法。
+    - 備註：使用keyword `enum`的方法。
 - 標準模版庫(STL)的容器(Containter)：
     - class名為：`ClassName<Type>`。例如`vector<int>`，`vector<string>`,`priority_queue<int>`etc。
     - 講義3.3 迭代器(iterator)可以自行閱讀。
