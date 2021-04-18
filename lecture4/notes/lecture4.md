@@ -173,7 +173,7 @@ for (int i = 0; i < m; i++) {
 
 - BFS 算法找到的路徑是從起點開始的 **最短** 合法路徑。換言之，這條路所包含的邊數最小。
 
-<img src=".\bfs.png">
+<img src=".\bfs.png" width="40%">
 
 習題︰
 
@@ -185,5 +185,4 @@ for (int i = 0; i < m; i++) {
 
 # 參考
 
-- oi-wiki
-- wikipedia
+- OI WiKi https://oi-wiki.org/
