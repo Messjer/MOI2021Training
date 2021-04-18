@@ -180,3 +180,10 @@ for (int i = 0; i < m; i++) {
 - [NOIP2017 提高组] 奶酪 https://www.luogu.com.cn/problem/P3958
 
 - 洛谷 P1443 馬的遍歷 https://www.luogu.com.cn/problem/P1443
+
+
+
+# 參考
+
+- oi-wiki
+- wikipedia
