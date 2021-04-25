@@ -96,7 +96,7 @@ Maintain a **data structure** storing a collection of items supporting the follo
 
 - **Random access**: Access (read/write) the i-th element in time O(1).
      *This is essentially* `a[i]` in C++*.*
-- **Resizable**: Array length unspecified, dynamically (online) adjusts.
+- **Resizable**: Array length unspecified, dynamically (online) adjusts.
 
 #### Memory Layout in OS
 
@@ -118,7 +118,7 @@ Allocate a very large array.
 - Drawback: Need to re-allocate everything whenever the size changes!...
     This is very realistic: $$n$$ insertions require $$O(n^2)$$ memory manipulations!
 
-**Solution3: ** **Lazy re-allocation**---Look further 
+**Solution3:** **Lazy re-allocation**---Look further 
 Re-allocate only when some event $$E$$ (that are supposed rare) happens.
 
 - **Question:** How to design E?
@@ -127,7 +127,7 @@ Re-allocate only when some event $$E$$ (that are supposed rare) happens.
 **But what if we really need more space?**
 Allocate a larger space **in advance**!
 
-**Solution3: ** **Look further** 
+**Solution3:** **Look further** 
 Get 2 extra cells if we need 1 more cell.
 
 - How many operations are needed for $$n$$ insertions?
@@ -262,7 +262,7 @@ The function returns true if **a** has an (lexicographically) next permutation, 
 
 ```c++
 int a[10];
-for (int i = 0; I < 10; i++)
+for (int i = 0; i < 10; i++)
   a[i] = i;
  do {
  // check if **a** contains a good permutation
@@ -303,9 +303,9 @@ How to decide which to choose from?
 
 Sometimes doesn’t matter…
 
-But sometimes matter a lot!!
+But sometimes matters a lot!!
 
-**Practice, practice, practice!!!**
+**Practise, practise, practise!!!**
 
 ### Example Problems
 
@@ -319,7 +319,7 @@ But sometimes matter a lot!!
 ## Homework
 
 - Chapter 3 (problem solving paradigms) on uHunt
-    - Like[Uva12192](https://onlinejudge.org/external/121/12192.pdf), [Uva1047](https://onlinejudge.org/external/10/1047.pdf) ,[Uva1262](https://onlinejudge.org/external/12/1262.pdf), [Uva416](https://onlinejudge.org/external/4/416.pdf), [Uva11553](https://onlinejudge.org/external/115/11553.pdf) [Uva10567](https://onlinejudge.org/external/105/10567.pdf), [Uva10576](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1517),[Uva 11085](https://onlinejudge.org/external/110/11085.pdf), [Uva 10503](https://onlinejudge.org/external/105/10503.pdf), [Uva574](https://onlinejudge.org/external/5/574.pdf), and others.
+    - Like [Uva12192](https://onlinejudge.org/external/121/12192.pdf), [Uva1047](https://onlinejudge.org/external/10/1047.pdf) ,[Uva1262](https://onlinejudge.org/external/12/1262.pdf), [Uva416](https://onlinejudge.org/external/4/416.pdf), [Uva11553](https://onlinejudge.org/external/115/11553.pdf) [Uva10567](https://onlinejudge.org/external/105/10567.pdf), [Uva10576](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1517),[Uva 11085](https://onlinejudge.org/external/110/11085.pdf), [Uva 10503](https://onlinejudge.org/external/105/10503.pdf), [Uva574](https://onlinejudge.org/external/5/574.pdf), and others.
 - Similar problems on luogu and other OJs.
 
 ## 參考資料
